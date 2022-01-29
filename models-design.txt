@@ -1,0 +1,26 @@
+TODO 
+Project Description 
+
+The project name is called gradr, its a school management application that seeks to automate results and scores compilation
+
+
+------ACTIONS-----
+1. Itemize the list of models that the software application needs 
+2. Try to establish their relationship
+3. Identifies properties on the model and state how they can help achieve our goals
+
+
+We will add and iterate over as we move forward with the project 
+
+NOTE
+We don't need to add anything in terms of app to this project, we will work with this text file only for now before moving forward 
+
+I have created a project called gradr and no app, my concern is to setup the database properly
+
+MODELS
+1. student
+2. staff/teachers
+3. scores
+4. term 
+5.session
+6. classroom etc
